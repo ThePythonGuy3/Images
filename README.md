@@ -1,3 +1,3 @@
 # Mindustryv6Resprite
-# With love for anuke
+# With love for Anuke
 The mindustry v6 resprite
